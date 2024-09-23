@@ -1,29 +1,13 @@
-# Rsbuild Project
+# Volfied / Qix clone
 
-## Setup
+## Description
 
-Install the dependencies:
+This is a clone of the game Volfied, which is a clone of the game Qix. The game is made with typescript and the canvas API, build with rsbuild.
 
-```bash
-pnpm install
-```
+## How to play
 
-## Get Started
+The goal of the game is to fill the screen. You can move the player with the arrow keys. If you get hit by an enemy or your line gets hit, you lose a life. 
 
-Start the dev server:
+[link](https://yanbrod.github.io/volfied_clone/)
 
-```bash
-pnpm dev
-```
-
-Build the app for production:
-
-```bash
-pnpm build
-```
-
-Preview the production build locally:
-
-```bash
-pnpm preview
-```
+![screenshot](./screenshot.png)
