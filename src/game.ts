@@ -1,4 +1,3 @@
-// Game.ts
 import { GRID_SIZE } from './const';
 import { InputHandler } from './input';
 import { Player } from './player';
